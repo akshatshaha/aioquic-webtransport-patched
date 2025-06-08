@@ -1,10 +1,10 @@
 # aioquic-webtransport-patched
 
-> A patched fork of [`aiortc/aioquic`](https://github.com/aiortc/aioquic) with support for **WebTransport** on top of QUIC, intended for use in projects that require full WebTransport handling such as the [Nimble Challenge 2025](#).
+> ✅ A patched fork of [`aiortc/aioquic`](https://github.com/aiortc/aioquic) with support for **WebTransport** on top of QUIC, intended for use in projects that require full WebTransport handling (#).
 
 ---
 
-## Purpose
+## 📌 Purpose
 
 This repository extends the official `aioquic` QUIC implementation with **WebTransport protocol support**, which is not yet officially available in the upstream.
 
@@ -16,7 +16,7 @@ The patch includes:
 
 ---
 
-## Installation
+## 🔧 Installation
 
 To install this patched version directly from GitHub:
 
